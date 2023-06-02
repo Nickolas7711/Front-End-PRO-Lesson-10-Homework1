@@ -67,4 +67,4 @@ users.forEach(function(user) {
 });
 
 console.log('Phone numbers:', phoneNumbers);
-console.log('Total balance:', totalBalance);
+console.log('Total balance: $', totalBalance);
